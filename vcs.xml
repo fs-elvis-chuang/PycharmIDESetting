@@ -6,8 +6,13 @@
           <option name="url" value="http://10.1.1.6:3000" />
           <option name="userName" value="fs-elvis-chuang" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.1.1.6:3000/fs-elvis-chuang/pythonProject1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\PyCharm_Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
